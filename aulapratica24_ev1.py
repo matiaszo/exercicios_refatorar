@@ -10,3 +10,5 @@ desconto = aumento - desconto
 print(f"Salario inicial: {salario:5}")
 print(f"Salario com aumento: {aumento:5}")
 print(f"Salario com desconto: {desconto:5}")
+
+
